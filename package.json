@@ -1,0 +1,13 @@
+{
+  "name": "finanzas-personales",
+  "version": "1.0.0",
+  "description": "App de finanzas personales para control de cuentas, tarjetas de credito, extrafinanciamientos y efectivo",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
